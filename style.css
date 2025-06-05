@@ -1,0 +1,74 @@
+header
+{
+    background-color: rgb(94, 94, 211);
+    text-align: center;
+}
+
+footer 
+{
+    background-color: rgb(94, 94, 211);
+    c
+    text-align: center;
+}
+
+h1
+{
+    color: aquamarine;
+    font-size: 260%;
+    font-family: monospace;
+}
+
+p
+{
+    color: aqua;
+    font-size: 200%;
+    text-align: center;
+}
+
+.grillacontenedorade4partes
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.grillacontenedorade3partes
+{
+    display: grid;
+    grid-template-columns: 50% 15% 35%;
+}
+
+div.rosa
+{
+    background-color: pink;
+}
+div.lila
+{
+    background-color: blueviolet;
+}
+div.lila:hover
+{
+    background-color: rgb(23, 194, 52);
+}
+div.naranja
+{
+    background-color: rgb(235, 132, 15);
+}
+div.celeste
+{
+    background-color: aqua;
+}
+h2
+{
+    color: burlywood;
+    text-align: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2:hover
+{
+    color: rgb(24, 74, 211);
+    text-align: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
